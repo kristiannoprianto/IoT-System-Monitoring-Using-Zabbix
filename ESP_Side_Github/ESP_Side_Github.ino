@@ -12,8 +12,8 @@
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 
-#define AUTHOR_EMAIL "hidroverti@gmail.com"
-#define AUTHOR_PASSWORD "HidroVerti123-"
+#define AUTHOR_EMAIL ""
+#define AUTHOR_PASSWORD ""
 
 #define RECIPIENT_EMAIL "kristiannoprianto66@gmail.com"
 
@@ -21,8 +21,8 @@ SMTPSession smtp;
 
 String htmlMsg;
 
-const char* ssid = "maumandi";//type your ssid
-const char* password = "rtzA.560--@";//type your password
+const char* ssid = "";//type your ssid
+const char* password = "";//type your password
 float pHval;
 float Turbval;
 float temp;
