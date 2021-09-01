@@ -15,7 +15,7 @@
 #define AUTHOR_EMAIL ""
 #define AUTHOR_PASSWORD ""
 
-#define RECIPIENT_EMAIL "kristiannoprianto66@gmail.com"
+#define RECIPIENT_EMAIL ""
 
 SMTPSession smtp;
 
